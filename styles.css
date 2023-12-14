@@ -1,0 +1,25 @@
+body {
+    background : linear-gradient(100deg,rgb(7,155,73), rgb(245,217,0))
+  }
+  
+  
+  #title {
+    font-size :80px;
+    font-family:Impact;
+    color:gold;
+    text-align:center;
+    letter-spacing:2.5px
+  }
+  
+  #image {
+    border:1px solid black;
+    display:block;
+    margin:auto;
+    max-width:100%
+  }
+  
+  #img-caption {
+    text-align:center;
+    font-family:fantasy;
+    letter-spacing:1.2px
+  }
